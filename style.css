@@ -1,9 +1,26 @@
+header {
+    background-color: #3c3c3c;
+    color: #7fffd4;
+}
+#pagetitle {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
 nav {
     text-align: center;
-    background-color: aquamarine;
+    background-color: #7fffd4;
     max-width: 100% !important;
+}
+nav a {
+    color: #3c3c3c;
+}
+nav a:hover {
+    text-decoration: none;
+    color: #000;
 }
 ul {
     background-color: aquamarine;
     list-style-type: none;
+    padding: 10px;
 }
