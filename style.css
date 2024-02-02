@@ -1,1 +1,9 @@
-
+nav {
+    text-align: center;
+    background-color: aquamarine;
+    max-width: 100% !important;
+}
+ul {
+    background-color: aquamarine;
+    list-style-type: none;
+}
