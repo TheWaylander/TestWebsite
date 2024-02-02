@@ -8,12 +8,13 @@ header {
     padding: 20px;
     margin: 0;
 }
+.container {
+    margin-top: 50px;
+}
 .color-panel {
-  display: inline-block;
-  width: 32%;
   text-align: center;
   margin: 20px auto;
-  min-height: 100px;
+  padding: 100px;
 }
 
 .cool-blue {
